@@ -13,6 +13,10 @@ A security and privacy-focused custom Android-based OS.
 - **Independent.** Not affiliated with or endorsed by GrapheneOS or any device
   maker.
 
+## Security reports
+
+Send confidential vulnerability reports to [security@diamaneos.de](mailto:security@diamaneos.de), encrypted with the [OpenPGP public key](https://diamaneos.de/security-public.asc). Follow the [security reporting instructions](https://diamaneos.de/security/) to check its fingerprint, or read the [security policy](https://github.com/DiamaneOS/.github/blob/main/SECURITY.md).
+
 ## Development and contributions
 
 This [GitHub organization](https://github.com/DiamaneOS) is the authoritative home for source code, issues,
