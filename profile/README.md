@@ -2,17 +2,6 @@
 
 A security and privacy-focused custom Android-based OS.
 
-- **Based on GrapheneOS**, as a partial port.
-  - The supported devices do not meet GrapheneOS's
-    [device requirements](https://grapheneos.org/faq#future-devices), so
-    DiamaneOS does not offer the same security as GrapheneOS on GrapheneOS's
-    own devices.
-  - The [known limitations](https://diamaneos.de/limitations/) say where the
-    supported devices are weaker.
-- **Supported devices:** Fairphone 6.
-- **Independent.** Not affiliated with or endorsed by GrapheneOS or any device
-  maker.
-
 ## Security reports
 
 Send confidential vulnerability reports to [security@diamaneos.de](mailto:security@diamaneos.de), encrypted with the [OpenPGP public key](https://diamaneos.de/security-public.asc). Follow the [security reporting instructions](https://diamaneos.de/security/) to check its fingerprint, or read the [security policy](https://github.com/DiamaneOS/.github/blob/main/SECURITY.md).
